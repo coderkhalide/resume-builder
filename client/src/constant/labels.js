@@ -4,9 +4,9 @@
  * */
 
 export default {
-    error: {
-        networkError: 'Network Error',
-        timeOut: 'Timeout Error',
-        default: 'Unknown Error',
-    },
-};
+  error: {
+    networkError: 'Network Error',
+    timeOut: 'Timeout Error',
+    default: 'Unknown Error'
+  }
+}

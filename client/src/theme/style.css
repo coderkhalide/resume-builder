@@ -73,10 +73,12 @@ aside {
     outline: 0;
     background: transparent;
 }
+
 ol,
 ul {
     list-style: none;
 }
+
 table {
     border-collapse: collapse;
     border-spacing: 0;

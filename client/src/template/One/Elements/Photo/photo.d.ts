@@ -1,5 +1,5 @@
 export interface TProps {
-    userData: {
-        [key: string]: string;
-    };
+  userData: {
+    [key: string]: string;
+  };
 }
