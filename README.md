@@ -3,7 +3,7 @@
 Modern real-time design and 100% free resume builder.
 
 > This is a fork of [wtfresume.com](https://github.com/sramezani/resume-builder), containing both server and client
-? in a containerized configuration, so it can be easily started locally without zero configuration.
+> in a containerized configuration, so it can be easily started locally without zero configuration.
 
 ### Features:
 - Real time design (drag and drop)
